@@ -1,1 +1,1 @@
-# Synthetic-Data-Evaluation
+# Structured-Synthetic-Data-Evaluation
