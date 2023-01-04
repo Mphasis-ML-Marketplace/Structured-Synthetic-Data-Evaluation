@@ -11,4 +11,4 @@ Synthetic Data is pertinent to deriving business insights without compromising o
 * Mphasis Synth Studio is an Enterprise Synthetic Data Platform for generating high-quality synthetic data that can help derive and monetize trustworthy business insights, while preserving privacy and protecting data subjects. Build reliable and high accuracy models when you have no or low data.
 
 ## Amazon Marketplace Link
-The product can be found [here](https://aws.amazon.com/marketplace/pp/prodview-hbmxiek5jqvdk)
+The product can be found [here](https://aws.amazon.com/marketplace/pp/prodview-maj7jjlpikga2)
