@@ -1,4 +1,4 @@
-# Structured-Synthetic-Data-Evaluation
+# Structured-Synthetic-Data-Evaluator
 
 ## Product overview
 
